@@ -1,4 +1,4 @@
-# Facebook SDK for .NET
+# [Facebook](https://aapks.com/apk/facebook/) SDK for .NET
 The Facebook SDK for .NET helps developers build web, desktop, Silverlight, Windows Phone and Windows Store applications that integrate with Facebook.
 
 [Like us on Facebook at our official page](http://facebook.com/csharpsdk) or [Follow us on twitter @chsarpsdk](http://twitter.com/csharpsdk).
@@ -15,7 +15,7 @@ command.*
     
 If you would like to get an older version of the the binaries please use the following command.
 
-    nuget install Facebook -v 5.4.1
+    nuget install [Facebook](https://aapks.com/apk/facebook/) -v 5.4.1
     
 ## Documentation
 You can find the documentation for this project [here](https://github.com/facebook-csharp-sdk/facebook-csharp-sdk.github.com/tree/master/docs).
